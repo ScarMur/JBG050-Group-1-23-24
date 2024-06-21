@@ -1,0 +1,12 @@
+#The requirements for the python files.
+pandas
+io
+collections
+geopandas
+sklearn
+scipy
+numpy
+matplotlib
+plotly
+seaborn
+statsmodels

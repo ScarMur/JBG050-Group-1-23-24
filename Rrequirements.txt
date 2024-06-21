@@ -1,0 +1,6 @@
+#The requirements for the R code in this library
+
+dplyr
+car
+data.table
+

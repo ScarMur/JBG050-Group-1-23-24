@@ -1,0 +1,6 @@
+#Ignoring the data files
+Highest_education_levels.xlsx
+PAS_ward_level_FY_19_20.csv
+indices_deprivation_local_authority.csv
+final_cleaned_dataset.csv
+/London_Ward/
